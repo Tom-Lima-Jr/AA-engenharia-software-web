@@ -1,3 +1,7 @@
+URL de acesso ao github pages: https://tom-lima-jr.github.io/AA-engenharia-software-web/
+
+pagina com guia para deploy github pages: https://github.com/angular-schule/angular-cli-ghpages
+
 # AAEngenhariaSoftwareWeb
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.3.
